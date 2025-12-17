@@ -1,84 +1,58 @@
-# 👋 Hi, I'm **Anis Makhezer**
+# Hi, I'm Anis Makhezer
 
-🎓 **Master’s student in Electronics, Electrical Engineering & Automation (EEA)** at *Université de Lorraine (France)*.  
-I’m passionate about building bridges between **hardware and software**, and I love exploring how **AI and embedded systems** can make machines smarter and more efficient.
+Master’s student in **EEA — Mesure & Traitement de l’Information** at **Université de Lorraine (Metz, France)**.  
+I build practical projects at the intersection of **embedded systems**, **IoT/Cloud**, and **software engineering**.
 
----
-
-## 🚀 About Me
-- 🧠 Currently specializing in **Image Processing, Embedded Systems, and AI**
-- 💻 Skilled in **Python, C, Arduino, InTouch, and MATLAB**
-- ⚙️ Exploring **Multithreading, Machine Learning, and Automation**
-- 🌍 Based in **Metz, France**
+**Looking for a 6-month internship starting March 2026.**
 
 ---
 
-## 🌟 Featured Projects
-
-### 🧩 **Fredkin Automaton on Arduino**
-A real-time **cellular automaton** implemented on an Arduino board.  
-It synchronizes with a **Python interface** that sends and receives states via serial communication,  
-logs iterations for **statistical analysis**, and visualizes system evolution.  
-➡️ *A fusion of electronics, communication protocols, and software design.*
+## About
+- Embedded development on **ESP32 / Arduino / Raspberry Pi**
+- IoT systems on **Azure**: **IoT Hub**, **DPS**, **MQTT**, **Bicep (IaC)**
+- Fullstack projects: **React**, **Node.js/Express**, **REST API**, **MongoDB Atlas**, **JWT**
+- Focus areas: **robust communication**, **automation**, and **end-to-end delivery** (device → cloud → dashboard)
 
 ---
 
-### 🎛️ **Industrial Supervision with InTouch**
-Development of an **HMI/SCADA interface** to visualize and control industrial processes.  
-Focus on **data acquisition, alarms, and process monitoring**.  
-➡️ *Brings automation and human control together through industrial software.*
+## Featured Projects
+
+### 1) Azure IoT Motion Monitoring (ESP32 + Particle Photon 2)
+Connected system using a **PIR sensor** to publish events via **MQTT** to **Azure IoT Hub**, with a simple local dashboard for visualization.  
+Infrastructure is deployed with **Bicep**, and device onboarding is handled through **Azure DPS**.  
+- Reproducible setup: **~30 minutes** from provisioning to working devices  
+- Validated on **2 devices** (ESP32 / Photon 2)  
+**Stack:** ESP32, Photon 2, PIR, MQTT, Azure IoT Hub, DPS, Bicep, HTML/Tailwind
 
 ---
 
-### ☁️ **IoT Device Integration with Azure IoT Hub**
-Design of a **connected embedded system** using ESP32 and Particle Photon boards,  
-linked to **Azure IoT Hub** for device provisioning, telemetry monitoring, and cloud data visualization.  
-➡️ *Combining embedded hardware, cloud connectivity, and data analytics.*
+### 2) Fredkin Cellular Automaton (Arduino + Python)
+Real-time cellular automaton on **Arduino**, driven by a **Python interface**.  
+Serial communication is made robust using **ACK + a finite state machine** to prevent desynchronization.  
+- Logs + statistics (active/dead cells) and plots with **Matplotlib**  
+- Tested up to **100×100** grids  
+**Stack:** Arduino, Python, serial protocol, matrix handling, Matplotlib
 
 ---
 
-### 📷 **Image Processing & AI**
-Projects involving **object detection, feature extraction**, and **pattern recognition** using Python (OpenCV, NumPy, scikit-learn).  
-Some modules include **filtering, segmentation, and frequency analysis**.  
-➡️ *Connecting mathematics, signal theory, and machine intelligence.*
+### 3) Fullstack Web App (React + API) — Grades Management
+A web app with a **React** frontend connected to a **Node.js/Express REST API**.  
+Authentication with **JWT + bcryptjs**, data stored in **MongoDB Atlas**, deployed on **Vercel (front)** and **Render (back)**.  
+**Stack:** React, Node.js, Express, REST, MongoDB Atlas, JWT, bcryptjs, Vercel, Render
 
 ---
 
-### 🧮 **Optimization and Parallel Computing**
-Implementation of numerical algorithms with **OpenMP and OpenCL** for performance acceleration.  
-Applications include **matrix inversion, Sobel filtering**, and **FFT** computation.  
-➡️ *Exploring the limits of software optimization and hardware concurrency.*
+## Tech Stack (keywords)
+**Languages:** Python, C++, Java, JavaScript  
+**Embedded:** ESP32, Arduino, Raspberry Pi, UART, I2C, SPI, interrupts, Wi-Fi  
+**IoT/Cloud:** Azure IoT Hub, Azure DPS, MQTT, Bicep (Infrastructure as Code)  
+**Web/API:** React, Node.js, Express, REST API, JWT, bcryptjs  
+**Data/Tools:** MongoDB Atlas, Git, Linux  
+**Industry (academic labs):** InTouch (HMI/SCADA)
 
 ---
 
-## 🛠️ Tech Stack
-
-### 💡 Languages  
-`Python` · `C` · `C++` · `C#` · `JavaScript` · `MATLAB` · `HTML` · `CSS` · `Bash` · `PowerShell`
-
-### ⚙️ Embedded & Hardware  
-`Arduino` · `Raspberry Pi` · `FPGA` · `ESP32` · `Particle Photon` · `InTouch` · `Azure IoT Hub`
-
-### 🧰 Tools & Software  
-`Git` · `GitHub` · `GitLab` · `.NET` · `Node.js` · `MySQL` · `CMake` · `Matplotlib` · `NumPy` · `scikit-learn`  
-`OpenCV` · `TensorFlow` · `Adobe Illustrator` · `Canva`
-
----
-
-## 💬 Fun Facts
-- 🔭 Currently working on **AI-enhanced embedded systems**
-- 👯 Open to collaborations in **computer vision and automation**
-- 🤝 Interested in **FPGA, edge AI, and real-time IoT systems**
-- ⚡ I love turning theoretical ideas into **functional connected prototypes**
-
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anis-makhezer-046649309)
-[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=white)](https://bsky.app/profile/mkzer)
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mkzeranis@gmail.com)
-
----
-
-✨ *Feel free to explore my repositories, share feedback, or reach out for collaboration!* 🚀
+## Contact
+- LinkedIn: https://linkedin.com/in/anis-makhezer-046649309  
+- GitHub: https://github.com/mkzer  
+- Email: mkzeranis@gmail.com
