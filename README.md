@@ -20,9 +20,9 @@
 
 ## 🔧 About
 
-- **Embedded development** on ESP32 / Arduino / Raspberry Pi (UART, I2C, SPI, interrupts, Wi-Fi)
+- **Embedded development** on ESP32 / Arduino / Raspberry Pi (UART, I2C, SPI, Wi-Fi)
 - **IoT systems on Azure**: IoT Hub, DPS, MQTT, Microsoft Fabric, Bicep (Infrastructure as Code)
-- **Edge AI / TinyML**: motion classification with Edge Impulse, sensor data pipelines
+- **Edge AI / TinyML**: currently self-learning (Edge Impulse)
 - **Fullstack**: React, Node.js/Express, REST APIs, MongoDB Atlas, JWT
 - **Process digitalization** (Power Platform): Power Apps, Power Automate, SharePoint, Power BI
 - **Applied AI / Data**: machine learning, deep learning (Python, TensorFlow/Keras, scikit-learn), Microsoft Copilot
@@ -92,9 +92,9 @@ Measurement & Information Processing track, Metz, France
 ## 🧰 Tech Stack
 
 **Languages:** Python · C/C++ · Java · JavaScript
-**Embedded:** ESP32 · Arduino · Raspberry Pi · UART · I2C · SPI · interrupts · Wi-Fi
+**Embedded:** ESP32 · Arduino · Raspberry Pi · UART · I2C · SPI · Wi-Fi
 **IoT / Cloud:** Azure IoT Hub · Azure DPS · MQTT · Microsoft Fabric · Bicep (IaC)
-**Edge AI:** Edge Impulse · TinyML · TensorFlow/Keras
+**ML / Edge AI:** TensorFlow/Keras · scikit-learn · exploring TinyML (Edge Impulse)
 **Web / API:** React · Node.js · Express · REST · JWT · bcryptjs
 **Low-Code:** Power Apps · Power Fx · Power Automate · SharePoint · Power BI (DAX, Power Query)
 **Data / Tools:** MongoDB Atlas · Git · Linux
