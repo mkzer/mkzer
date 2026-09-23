@@ -33,15 +33,15 @@ My focus: **robust communication**, **automation**, and **end-to-end delivery** 
 
 ## 💼 Experience
 
-### Stellantis · Process Digitalization & Quality Intern *(28 May 2026 – 30 Sep 2026)*
+### Stellantis · Process Digitalization & Quality Intern *(28 Mar 2026 – 30 Sep 2026)*
 Underbody Process Engineering (UPE) · Trith-Saint-Léger, France
 
 Digitalized an industrial quality process (QMLL) end-to-end with the **Microsoft Power Platform**, and drove tooling, reporting and AI adoption across the team.
 - Designed and built the **QMLL Digital Tool**: a **Power Apps Canvas** application (13+ screens) backed by **SharePoint Online**, covering the full Quality Lessons Learned process from data capture to exploitation
-- Presented the redesigned **Quality Manufacturing Lessons Learned** process and tool to the **UPE World Board**, securing buy-in from international stakeholders and org-wide adoption
-- Built the **PFMEA Tracking Tool** (KPIs: meetings, sessions held, lines/min ratio) and contributed to the maintenance and evolution of the **MPRQ** application
+- Presented the redesigned **Quality Manufacturing Lessons Learned** process and tool in English to the **UPE World Board** (33 international participants) and in Monthly Quality Reviews: officially piloted on **2 projects (4 instances)** and adopted by the site's UPE team
+- Built the **PFMEA Tracking Tool** (KPIs: meetings, sessions held, lines entered, session duration, lines/min ratio) and authored the technical documentation of the **MPRQ** application
 - Automated milestone reminders and notifications with **Power Automate**; modeled rating/decision logic and KPI reporting with **Power BI** (DAX, Power Query)
-- Co-facilitated **Power Platform** training for the teams, and led an **AI / Microsoft Copilot** training (OCFE method, shared AI agents, concrete business use cases)
+- Co-facilitated **Power Platform** training for the teams (and ran weekday catch-up sessions for those who missed them), and led an **AI / Microsoft Copilot** training (OCFE method, shared AI agents, concrete business use cases)
 - Authored the technical handover documentation to ensure maintainability and continuity after the placement
 
 **Stack:** Power Apps, Power Automate, SharePoint Online, Power BI, Power Fx, Microsoft Copilot
@@ -52,6 +52,7 @@ Digitalized an industrial quality process (QMLL) end-to-end with the **Microsoft
 
 ### 1) Azure IoT Motion Monitoring · *ESP32 + Particle Photon 2*
 Connected system using a **PIR sensor** to publish events via **MQTT** to **Azure IoT Hub**, with a local dashboard for visualization. Infrastructure deployed with **Bicep**, device onboarding via **Azure DPS**.
+- Team of 3: I owned the **cloud side** (Azure IoT Hub, DPS provisioning, Bicep infrastructure, data storage)
 - Reproducible setup: **~30 min** from provisioning to working devices
 - Validated on **2 devices** (ESP32 / Photon 2)
 
@@ -59,6 +60,7 @@ Connected system using a **PIR sensor** to publish events via **MQTT** to **Azur
 
 ### 2) Fredkin Cellular Automaton · *Arduino + Python*
 Real-time cellular automaton on **Arduino**, driven by a **Python** interface. Serial communication made robust with **ACK + a finite state machine** to prevent desynchronization.
+- Team project: I wrote the whole codebase (Arduino firmware + Python interface)
 - Logs + statistics (active/dead cells), plotted with **Matplotlib**
 - Tested up to **100×100** grids
 
@@ -101,7 +103,7 @@ Measurement & Information Processing track, Metz, France
 
 ## 📜 Certifications
 
-- **Scrum Fundamentals Certified** (Agile project management fundamentals)
+- **Scrum Fundamentals Certified** · SCRUMstudy, 2025 (Agile project management fundamentals)
 
 ---
 
@@ -113,8 +115,8 @@ Measurement & Information Processing track, Metz, France
 
 ## 🤝 Beyond Code
 
-- **Science Mediator** · Fête de la Science, University of Lorraine (since 2021): explaining complex technical concepts to the general public
-- **Private Tutor in Science & Mathematics** · independent (since 2018): 7+ years of one-on-one coaching
+- **Science Mediator** · Fête de la Science, University of Lorraine (2021 – 2024): explaining complex technical concepts to the general public
+- **Private Tutor in Science & Mathematics** · independent (2018 – 2026): 8 years of one-on-one coaching
 
 ---
 
