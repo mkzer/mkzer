@@ -39,7 +39,7 @@ Underbody Process Engineering (UPE) · Trith-Saint-Léger, France
 Digitalized an industrial quality process (QMLL) end-to-end with the **Microsoft Power Platform**, and drove tooling, reporting and AI adoption across the team.
 - Designed and built the **QMLL Digital Tool**: a **Power Apps Canvas** application (13+ screens) backed by **SharePoint Online**, covering the full Quality Lessons Learned process from data capture to exploitation
 - Presented the redesigned **Quality Manufacturing Lessons Learned** process and tool in English to the **UPE World Board** (33 international participants) and in Monthly Quality Reviews: officially piloted on **2 projects (4 instances)** and adopted by the site's UPE team
-- Built the **PFMEA Tracking Tool** (KPIs: meetings, sessions held, lines entered, session duration, lines/min ratio) contributed to the maintenance and evolution of the **MPRQ** application, including its technical documentation
+- Built the **PFMEA Tracking Tool** (KPIs: meetings, sessions held, lines entered, session duration, lines/min ratio), and contributed to the maintenance and evolution of the **MPRQ** application, including its technical documentation
 - Automated milestone reminders and notifications with **Power Automate**; modeled rating/decision logic and KPI reporting with **Power BI** (DAX, Power Query)
 - Co-facilitated **Power Platform** training for the teams (and ran weekday catch-up sessions for those who missed them), and led an **AI / Microsoft Copilot** training (OCFE method, shared AI agents, concrete business use cases)
 - Authored the technical handover documentation to ensure maintainability and continuity after the placement
